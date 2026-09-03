@@ -16,7 +16,7 @@ Screenshots
 
 <p align="center">
   
-![True Monokai (Default)](https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/assets/True%20Monokai%20(Default).png)
+![True Monokai (Default)](https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/assets/true-monokai-default.png)
 
 </p>
 
@@ -27,7 +27,7 @@ True Monokai (Default)
 
 <p align="center">
 
-![True Monokai (Low Contrast)](https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/assets/True%20Monokai%20(Low%20Contrast).png)
+![True Monokai (Low Contrast)](https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/assets/true-monokai-low-contrast.png)
 
 </p>
 
