@@ -9,8 +9,11 @@
   No Pro variants, no re-interpretations. just Monokai as it was meant to be.
 </p>
 
+![Static Badge](https://img.shields.io/badge/Zed-black?style=for-the-badge&logo=zedindustries&logoColor=f2f3f6&link=https%3A%2F%2Fzed.dev%2F)
 
-<h2 align="center">
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+<h2>
 Screenshots
 </h2>
 
@@ -35,6 +38,3 @@ True Monokai (Default)
 True Monokai (Low Contrast)
 </p>
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
