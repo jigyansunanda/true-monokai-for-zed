@@ -11,10 +11,15 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"></a>
- <a href="https://github.com/jigyansunanda/true-monokai-for-zed/issues"><img src="https://img.shields.io/github/issues/jigyansunanda/true-monokai-for-zed?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
- <a href="https://github.com/jigyansunanda/true-monokai-for-zed/contributors"><img src="https://img.shields.io/github/contributors/jigyansunanda/true-monokai-for-zed?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+ <a href="https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?colorA=34352d&style=for-the-badge"></a>
+ <a href="https://github.com/jigyansunanda/true-monokai-for-zed/issues"><img src="https://img.shields.io/github/issues/jigyansunanda/true-monokai-for-zed?colorA=34352d&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/jigyansunanda/true-monokai-for-zed/contributors"><img src="https://img.shields.io/github/contributors/jigyansunanda/true-monokai-for-zed?colorA=34352d&colorB=a6da95&style=for-the-badge"></a>
 </p>
+
+### Fonts used
+
+- **Editor/buffer:** [Ioskeley Mono](https://ahatem.github.io/IoskeleyMono/)
+- **UI:** [Oxanium](https://fonts.google.com/specimen/Oxanium) *(suggested by [u/baturax](https://www.reddit.com/user/baturax/) in [r/ZedEditor](https://www.reddit.com/r/ZedEditor/))*
 
 <h2>
 Screenshots
