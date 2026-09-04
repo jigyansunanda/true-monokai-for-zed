@@ -32,7 +32,7 @@
 <div>
     <img src="https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/assets/true-monokai-default.png" alt="True Monokai (Default)" width="100%">
     <br />
-    Faithful to the colors of classic Monokai
+    The faithful, classic Monokai color palette and contrast
 </div>
 
 <h4>True Monokai (Low Contrast)</h4>
