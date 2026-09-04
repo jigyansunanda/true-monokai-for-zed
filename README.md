@@ -39,7 +39,7 @@
 <div>
     <img src="https://github.com/jigyansunanda/true-monokai-for-zed/blob/main/assets/true-monokai-low-contrast.png" alt="True Monokai (Low Contrast)" width="100%">
     <br />
-    Features slightly muted foreground text for late-night sessions and reduced eye strain.
+    Features slightly muted foreground text for late-night sessions and reduced eye strain
 </div>
 
 </div>
