@@ -16,8 +16,6 @@
  <a href="https://github.com/jigyansunanda/true-monokai-for-zed/contributors"><img src="https://img.shields.io/github/contributors/jigyansunanda/true-monokai-for-zed?colorA=34352d&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
----
-
 ## Theme Preview
 
 <div align="left">
